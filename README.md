@@ -9,10 +9,7 @@ Equipe:
 [Davi Teixeira](https://github.com/daviteixeira-btm)  
 [Tierry Barros](https://github.com/TierryBr)
 
----  
-
 ## Detalhes do projeto escolhido
-
 
 ### Problemática
 
@@ -23,8 +20,6 @@ A partir da situação citada, surge a necessidade de uma proposta de solução 
 ### Backlog do projeto
 
 Link: <https://trello.com/invite/b/7OeT3U4B/f55a5f825844e12f103c728c81059716/requisitos-de-software-equipe-f-sistema-queroap>
-
----
 
 ### Requisitos Funcionais
 
@@ -59,8 +54,6 @@ Link: <https://trello.com/invite/b/7OeT3U4B/f55a5f825844e12f103c728c81059716/req
 - [Hist-29] 
 - [Hist-30] 
 
----
-
 ### Requisitos Não-Funcionais
 
 - Usabilidade
@@ -78,4 +71,4 @@ Link: <https://trello.com/invite/b/7OeT3U4B/f55a5f825844e12f103c728c81059716/req
   - [RNF-9] 
   - [RNF-10] 
 
----
+--
