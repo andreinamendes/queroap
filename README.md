@@ -17,6 +17,8 @@ Atualmente, em Quixadá, no âmbito de aulas presenciais, é notável a dificuld
 Em um primeiro momento o aluno tem de fazer um mapeamento dos imóveis que estão disponíveis e observar as características de cada um “pesando” as mesmas com as suas necessidades e sua situação financeira, psicológica e social, considerando que este será o local principal para a realização de suas atividades. Ao buscar apartamentos os alunos procuram plataformas que possam ajudar neste sentido, como o Marketplace do Facebook, que fornece uma gama de possibilidades dentro do âmbito de aluguel e compra de imóveis mas, a densa quantidade de possibilidades relacionadas a diversos produtos e áreas torna a busca desgastante.  
 A partir da situação citada, surge a necessidade de uma proposta de solução com enfoque nos alunos que auxilie especificamente na busca por moradia na cidade de Quixadá. Para tanto, surgiu a ideia de realizar o desenvolvimento de um projeto de uma aplicação mobile com o ojetivo de facilitar a comunicação entre os alunos e os possíveis locadores na ciadde de Quixadá.  
 
+Para  mais detalhes sobre o projeto fica a disposição o [Documento de Visão](https://github.com/andreinamendes/unimages/blob/main/docs/Unimages.pdf), contendo a descrição da problemática, personas, requisitos e etc.
+
 ### Backlog do projeto
 
 Link: <https://trello.com/invite/b/7OeT3U4B/f55a5f825844e12f103c728c81059716/requisitos-de-software-equipe-f-sistema-queroap>
